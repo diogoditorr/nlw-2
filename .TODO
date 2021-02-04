@@ -1,0 +1,2 @@
+Problems:
+    ☐ When some string has ' " ' inside, it gives SQL error
